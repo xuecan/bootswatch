@@ -17,7 +17,7 @@ module.exports = function (grunt) {
     banner: '/*!\n' +
             ' * <%= pkg.name %> v<%= pkg.version %>\n' +
             ' * Homepage: <%= pkg.homepage %>\n' +
-            ' * Copyright 2012-<%= grunt.template.today("yyyy") %> <%= pkg.author %>\n' +
+            ' * Copyright <%= grunt.template.today("yyyy") %> <%= pkg.author %>\n' +
             ' * Licensed under <%= pkg.license %>\n' +
             ' * Based on Bootstrap\n' +
             '*/\n',
