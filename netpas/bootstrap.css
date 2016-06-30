@@ -6777,8 +6777,8 @@ button.close {
   background-repeat: no-repeat;
   -webkit-background-size: 1000% 1000%;
           background-size: 1000% 1000%;
-  -webkit-box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.4);
-  box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.4);
+  -webkit-box-shadow: 1px 1px 2px rgba(0, 0, 0, 0.4);
+  box-shadow: 1px 1px 2px rgba(0, 0, 0, 0.4);
 }
 .btn-primary {
   -webkit-background-size: 200% 200%;
@@ -6800,8 +6800,8 @@ button.close {
   background-repeat: no-repeat;
   -webkit-background-size: 1000% 1000%;
           background-size: 1000% 1000%;
-  -webkit-box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.4);
-  box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.4);
+  -webkit-box-shadow: 1px 1px 2px rgba(0, 0, 0, 0.4);
+  box-shadow: 1px 1px 2px rgba(0, 0, 0, 0.4);
 }
 .btn-success {
   -webkit-background-size: 200% 200%;
@@ -6823,8 +6823,8 @@ button.close {
   background-repeat: no-repeat;
   -webkit-background-size: 1000% 1000%;
           background-size: 1000% 1000%;
-  -webkit-box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.4);
-  box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.4);
+  -webkit-box-shadow: 1px 1px 2px rgba(0, 0, 0, 0.4);
+  box-shadow: 1px 1px 2px rgba(0, 0, 0, 0.4);
 }
 .btn-info {
   -webkit-background-size: 200% 200%;
@@ -6846,8 +6846,8 @@ button.close {
   background-repeat: no-repeat;
   -webkit-background-size: 1000% 1000%;
           background-size: 1000% 1000%;
-  -webkit-box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.4);
-  box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.4);
+  -webkit-box-shadow: 1px 1px 2px rgba(0, 0, 0, 0.4);
+  box-shadow: 1px 1px 2px rgba(0, 0, 0, 0.4);
 }
 .btn-warning {
   -webkit-background-size: 200% 200%;
@@ -6869,8 +6869,8 @@ button.close {
   background-repeat: no-repeat;
   -webkit-background-size: 1000% 1000%;
           background-size: 1000% 1000%;
-  -webkit-box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.4);
-  box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.4);
+  -webkit-box-shadow: 1px 1px 2px rgba(0, 0, 0, 0.4);
+  box-shadow: 1px 1px 2px rgba(0, 0, 0, 0.4);
 }
 .btn-danger {
   -webkit-background-size: 200% 200%;
@@ -6892,8 +6892,8 @@ button.close {
   background-repeat: no-repeat;
   -webkit-background-size: 1000% 1000%;
           background-size: 1000% 1000%;
-  -webkit-box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.4);
-  box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.4);
+  -webkit-box-shadow: 1px 1px 2px rgba(0, 0, 0, 0.4);
+  box-shadow: 1px 1px 2px rgba(0, 0, 0, 0.4);
 }
 .btn-link {
   -webkit-background-size: 200% 200%;
@@ -6915,13 +6915,10 @@ button.close {
   background-repeat: no-repeat;
   -webkit-background-size: 1000% 1000%;
           background-size: 1000% 1000%;
-  -webkit-box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.4);
-  box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.4);
+  -webkit-box-shadow: 1px 1px 2px rgba(0, 0, 0, 0.4);
+  box-shadow: 1px 1px 2px rgba(0, 0, 0, 0.4);
 }
 .btn {
-  border: none;
-  -webkit-box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.4);
-  box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.4);
   -webkit-transition: all 0.4s;
   -o-transition: all 0.4s;
   transition: all 0.4s;
